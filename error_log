@@ -1,0 +1,26 @@
+[17-Nov-2018 03:03:22 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 76
+[17-Nov-2018 03:09:04 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 76
+[17-Nov-2018 03:09:48 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 76
+[17-Nov-2018 03:11:52 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 75
+[17-Nov-2018 03:13:27 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 75
+[17-Nov-2018 03:14:29 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 75
+[17-Nov-2018 03:15:08 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 75
+[17-Nov-2018 03:15:18 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 75
+[17-Nov-2018 03:15:42 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 75
+[17-Nov-2018 03:17:53 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:18:34 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:18:50 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:20:12 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:20:59 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:24:32 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:27:14 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:29:47 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:30:45 America/Denver] PHP Fatal error:  Call to a member function get_where_row() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Setting.php on line 77
+[17-Nov-2018 03:31:49 America/Denver] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Eschool.php on line 28
+[17-Nov-2018 03:41:24 America/Denver] PHP Fatal error:  Call to a member function get_all_order() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Human_resources.php on line 26
+[17-Nov-2018 03:41:47 America/Denver] PHP Fatal error:  Call to a member function get_all_order() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Human_resources.php on line 26
+[17-Nov-2018 03:42:19 America/Denver] PHP Fatal error:  Call to a member function get_all_order() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Human_resources.php on line 26
+[17-Nov-2018 03:42:51 America/Denver] PHP Fatal error:  Call to a member function get_all_order() on a non-object in /home/zizzee/public_html/eschool/application/controllers/Human_resources.php on line 26
+[19-Nov-2018 23:11:53 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zizzee/public_html/eschool/application/views/layout/header.php on line 137
+[20-Nov-2018 06:43:21 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home/zizzee/public_html/eschool/application/views/accessories/picture_stock.php on line 26
+[20-Nov-2018 07:52:37 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home/zizzee/public_html/eschool/application/views/accessories/picture_stock.php on line 26

@@ -1,0 +1,35 @@
+<?php
+class Eschool_model extends CI_Model{
+    public function __construct() {
+        parent::__construct();
+    }
+    //
+    function get_menu($item){
+        $this->db->select("*")->from('tb_member a');
+        $this->db->join('tb_member_activities b','b.member_id = a.id');
+        $this->db->join('tb_data_define c','c.id = b.data_define_id');
+        $this->db->where('a.id',$this->session->userdata('member_id'))->where('c.data_group',$item);
+        $query=$this->db->get();
+        if($query->num_rows()>0){
+            return $query->result_array();
+        }
+        return array();
+    }
+    
+    
+    function get_menu_sch(){
+        $this->db->select("*")->from('tb_member a');
+        $this->db->join('tb_member_activities b','b.member_id = a.id');
+        $this->db->join('tb_data_define c','c.id = b.data_define_id');
+        $this->db->where('a.id',$this->session->userdata('member_id'))->where('c.department=a.department');
+        $query=$this->db->get();
+        if($query->num_rows()>0){
+            return $query->result_array();
+        }
+        return array();
+    }
+    
+    
+    
+    
+}

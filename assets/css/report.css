@@ -1,0 +1,15 @@
+@font-face {
+  font-family: THSarabun;
+  src: url('../fonts/THSarabun.ttf');
+  font-weight: bold;
+}
+/*html body {
+  font-family: THSarabun !important;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}*/
+html body{
+  font-family: THSarabun !important;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
